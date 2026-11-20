@@ -21,8 +21,6 @@ Detail-oriented **Data Analyst** with an **MBA**, skilled in **Advanced Excel, S
 
 ### 👩‍💻 Quick Intro
 
-### 👩‍💻 Quick Intro
-
 | | |
 |---|---|
 | 👤 **Name** | Ishita Dongare |
