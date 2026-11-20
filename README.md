@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:0A1A3A,100:1D4ED8&text=Ishita%20Dongare&fontColor=FFFFFF&fontSize=50&fontAlignY=36&animation=twinkling&desc=Data%20Analyst%20%E2%80%A2%20MBA%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20SQL%20%E2%80%A2%20Tableau&descAlignY=58&descSize=17" width="100%" alt="Ishita Dongare Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,55:1C1612,100:C4A484&text=Ishita%20Dongare&fontColor=F5E6D3&fontSize=50&fontAlignY=36&animation=twinkling&desc=Data%20Analyst%20%E2%80%A2%20MBA%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20SQL%20%E2%80%A2%20Tableau&descColor=E8D5BC&descAlignY=58&descSize=17" width="100%" alt="Ishita Dongare Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Ishita+Dongare+%F0%9F%91%8B;Data+Analyst+with+an+MBA+%F0%9F%8E%93;Turning+data+into+actionable+business+insights+%F0%9F%93%8A;Excel+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=D9BC98&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Ishita+Dongare+%F0%9F%91%8B;Data+Analyst+with+an+MBA+%F0%9F%8E%93;Turning+data+into+actionable+business+insights+%F0%9F%93%8A;Excel+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ishita-dongare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dongareishita@gmail.com"><img src="https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Ishita623?tab=repositories"><img src="https://img.shields.io/badge/Repositories-000000?style=for-the-badge&logo=github&logoColor=3B82F6" alt="Repositories"/></a>
-<img src="https://komarev.com/ghpvc/?username=Ishita623&label=Profile+Views&color=1D4ED8&labelColor=000000&style=for-the-badge" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/ishita-dongare"><img src="https://img.shields.io/badge/LinkedIn-C4A484?style=for-the-badge&logo=linkedin&logoColor=050505" alt="LinkedIn"/></a>
+<a href="mailto:dongareishita@gmail.com"><img src="https://img.shields.io/badge/Email-C4A484?style=for-the-badge&logo=gmail&logoColor=050505" alt="Email"/></a>
+<a href="https://github.com/Ishita623?tab=repositories"><img src="https://img.shields.io/badge/Repositories-050505?style=for-the-badge&logo=github&logoColor=C4A484" alt="Repositories"/></a>
+<img src="https://komarev.com/ghpvc/?username=Ishita623&label=Profile+Views&color=C4A484&labelColor=050505&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -21,14 +21,16 @@ Detail-oriented **Data Analyst** with an **MBA**, skilled in **Advanced Excel, S
 
 ### 👩‍💻 Quick Intro
 
-| | |
-|---|---|
-| 👤 **Name** | Ishita Dongare |
-| 💼 **Role** | Data Analyst |
-| 🎓 **Education** | MBA (CGPA 8.66) · BBA (CGPA 8.58) |
-| 🛠️ **Tools** | Excel · SQL · Power BI · Tableau · Python |
-| 📚 **Currently** | Data Science & Analytics with AI |
-| 🎯 **Goal** | Data-driven decision making |
+```python
+ishita = {
+    "name": "Ishita Dongare",
+    "role": "Data Analyst",
+    "education": "MBA (CGPA 8.66) | BBA (CGPA 8.58)",
+    "tools": ["Excel", "SQL", "Power BI", "Tableau", "Python"],
+    "currently": "Data Science & Analytics with AI",
+    "goal": "Data-driven decision making",
+}
+```
 
 ---
 
@@ -40,11 +42,11 @@ Detail-oriented **Data Analyst** with an **MBA**, skilled in **Advanced Excel, S
 
 <br/><br/>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-C4A484?style=for-the-badge&logo=powerbi&logoColor=050505)
+![Tableau](https://img.shields.io/badge/Tableau-C4A484?style=for-the-badge&logo=tableau&logoColor=050505)
+![Excel](https://img.shields.io/badge/Excel-C4A484?style=for-the-badge&logo=microsoftexcel&logoColor=050505)
+![MySQL](https://img.shields.io/badge/MySQL-C4A484?style=for-the-badge&logo=mysql&logoColor=050505)
+![Python](https://img.shields.io/badge/Python-C4A484?style=for-the-badge&logo=python&logoColor=050505)
 
 </div>
 
@@ -62,19 +64,19 @@ Detail-oriented **Data Analyst** with an **MBA**, skilled in **Advanced Excel, S
 <h3>🍫 Chocolate Sales Dashboard</h3>
 <b>Power BI</b><br/><br/>
 Star-schema model with a 4-page interactive dashboard, KPI cards and slicers. Finds top products, countries, channels and salespeople.<br/><br/>
-<a href="https://github.com/Ishita623/Chocolate_sales"><img src="https://img.shields.io/badge/View%20Project%20→-1D4ED8?style=for-the-badge" alt="Chocolate Sales"/></a>
+<a href="https://github.com/Ishita623/Chocolate_sales"><img src="https://img.shields.io/badge/View%20Project%20→-C4A484?style=for-the-badge&labelColor=050505&logoColor=050505" alt="Chocolate Sales"/></a>
 </td>
 <td align="center" width="33%" valign="top">
 <h3>☕ Coffee Sales Dashboard</h3>
 <b>Dashboard · Data Analysis</b><br/><br/>
 Sales dashboard that tracks performance and key business metrics at a glance.<br/><br/>
-<a href="https://github.com/Ishita623/Coffee_Sales-Dashboard"><img src="https://img.shields.io/badge/View%20Project%20→-3B82F6?style=for-the-badge" alt="Coffee Sales"/></a>
+<a href="https://github.com/Ishita623/Coffee_Sales-Dashboard"><img src="https://img.shields.io/badge/View%20Project%20→-D9BC98?style=for-the-badge" alt="Coffee Sales"/></a>
 </td>
 <td align="center" width="33%" valign="top">
 <h3>🎬 Netflix Content Analysis</h3>
 <b>Tableau</b><br/><br/>
 Interactive dashboard on Netflix movies and TV shows by type, genre, country, release year and rating.<br/><br/>
-<a href="https://github.com/Ishita623/Netflix"><img src="https://img.shields.io/badge/View%20Project%20→-0EA5E9?style=for-the-badge" alt="Netflix"/></a>
+<a href="https://github.com/Ishita623/Netflix"><img src="https://img.shields.io/badge/View%20Project%20→-B08968?style=for-the-badge" alt="Netflix"/></a>
 </td>
 </tr>
 <tr>
@@ -82,26 +84,26 @@ Interactive dashboard on Netflix movies and TV shows by type, genre, country, re
 <h3>🏦 Banking Fraud Detection</h3>
 <b>Python · Machine Learning</b><br/><br/>
 Analysis of banking transactions to spot fraudulent activity.<br/><br/>
-<a href="https://github.com/Ishita623/Banking-fraud-detection"><img src="https://img.shields.io/badge/View%20Project%20→-1D4ED8?style=for-the-badge" alt="Fraud Detection"/></a>
+<a href="https://github.com/Ishita623/Banking-fraud-detection"><img src="https://img.shields.io/badge/View%20Project%20→-C4A484?style=for-the-badge" alt="Fraud Detection"/></a>
 </td>
 <td align="center" valign="top">
 <h3>🎓 Online Learning Database</h3>
 <b>SQL · MySQL</b><br/><br/>
 Relational database for an online learning platform, with joins, aggregates and subqueries for student, course and enrollment reports.<br/><br/>
-<a href="https://github.com/Ishita623/Online-learning"><img src="https://img.shields.io/badge/View%20Project%20→-3B82F6?style=for-the-badge" alt="Online Learning"/></a>
+<a href="https://github.com/Ishita623/Online-learning"><img src="https://img.shields.io/badge/View%20Project%20→-D9BC98?style=for-the-badge" alt="Online Learning"/></a>
 </td>
 <td align="center" valign="top">
 <h3>🌍 Life Expectancy Data</h3>
 <b>Data Analysis</b><br/><br/>
 Exploration of life expectancy data to uncover trends and patterns.<br/><br/>
-<a href="https://github.com/Ishita623/Life-Expectancy-Data"><img src="https://img.shields.io/badge/View%20Project%20→-0EA5E9?style=for-the-badge" alt="Life Expectancy"/></a>
+<a href="https://github.com/Ishita623/Life-Expectancy-Data"><img src="https://img.shields.io/badge/View%20Project%20→-B08968?style=for-the-badge" alt="Life Expectancy"/></a>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<a href="https://github.com/Ishita623?tab=repositories"><img src="https://img.shields.io/badge/See%20All%20Repositories%20→-000000?style=for-the-badge&logo=github&logoColor=3B82F6" alt="All repos"/></a>
+<a href="https://github.com/Ishita623?tab=repositories"><img src="https://img.shields.io/badge/See%20All%20Repositories%20→-050505?style=for-the-badge&logo=github&logoColor=C4A484" alt="All repos"/></a>
 
 </div>
 
@@ -125,16 +127,16 @@ Exploration of life expectancy data to uncover trends and patterns.<br/><br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishita623&show_icons=true&hide_border=true&include_all_commits=true&bg_color=000000&title_color=3B82F6&icon_color=3B82F6&text_color=E6EDF3" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita623&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=3B82F6&text_color=E6EDF3" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishita623&show_icons=true&hide_border=true&include_all_commits=true&bg_color=050505&title_color=D9BC98&icon_color=C4A484&text_color=EADBC8" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita623&layout=compact&hide_border=true&langs_count=8&bg_color=050505&title_color=D9BC98&text_color=EADBC8" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Ishita623&hide_border=true&background=000000&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=9CA3AF" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=Ishita623&hide_border=true&background=050505&ring=C4A484&fire=D9BC98&currStreakNum=F5E6D3&sideNums=F5E6D3&currStreakLabel=D9BC98&sideLabels=D9BC98&dates=B8A68F" alt="Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishita623&bg_color=000000&color=3B82F6&line=1D4ED8&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishita623&bg_color=050505&color=D9BC98&line=C4A484&point=F5E6D3&area=true&area_color=C4A484&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -158,11 +160,11 @@ Exploration of life expectancy data to uncover trends and patterns.<br/><br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ishita-dongare"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dongareishita@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ishita-dongare"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-C4A484?style=for-the-badge&logo=linkedin&logoColor=050505" alt="LinkedIn"/></a>
+<a href="mailto:dongareishita@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-C4A484?style=for-the-badge&logo=gmail&logoColor=050505" alt="Email"/></a>
 
 ### 💬 "Turning data into insights, and insights into impact."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:0A1A3A,100:1D4ED8" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,55:1C1612,100:C4A484" width="100%" alt="Footer"/>
 
 </div>
