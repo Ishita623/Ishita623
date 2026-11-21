@@ -28,7 +28,6 @@ Detail-oriented **Data Analyst** with an **MBA**, skilled in **Advanced Excel, S
 - 🛠️ Tools: Excel, SQL, Power BI, Tableau, Python
 - 🌱 Currently learning: Data Science & Analytics with AI
 - 🎯 Goal: Data-driven decision making
-- 📫 Connect: add your LinkedIn link here
 
 ---
 
