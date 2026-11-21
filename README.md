@@ -21,16 +21,14 @@ Detail-oriented **Data Analyst** with an **MBA**, skilled in **Advanced Excel, S
 
 ### 👩‍💻 Quick Intro
 
-```python
-ishita = {
-    "name": "Ishita Dongare",
-    "role": "Data Analyst",
-    "education": "MBA (CGPA 8.66) | BBA (CGPA 8.58)",
-    "tools": ["Excel", "SQL", "Power BI", "Tableau", "Python"],
-    "currently": "Data Science & Analytics with AI",
-    "goal": "Data-driven decision making",
-}
-```
+# Hi, I'm Ishita Dongare 👋
+
+- 📊 Data Analyst
+- 🎓 MBA (CGPA 8.66) | BBA (CGPA 8.58)
+- 🛠️ Tools: Excel, SQL, Power BI, Tableau, Python
+- 🌱 Currently learning: Data Science & Analytics with AI
+- 🎯 Goal: Data-driven decision making
+- 📫 Connect: add your LinkedIn link here
 
 ---
 
